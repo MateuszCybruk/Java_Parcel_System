@@ -19,5 +19,7 @@ and the ability to return packages from the last transaction.
 7. Flexible Package Handling: Support for different package types and sizes, with prices varying by delivery method and abonnement status.
 
 
+----------------------------------Contributors----------------------------------
 
+Mateusz Cybruk: Initial implementation, design, and documentation
 
